@@ -40,6 +40,18 @@ docker ps -a
 ```
 docker stop 컨테이너명
 ```
-
-
-|| 끝
+8. 도커 컨테이너 삭제
+```
+#단일삭제
+docker rm [컨테이너id] 
+#복수개삭제
+docker rm [컨테이너id1],[컨테이너id2],[컨테이너id3]··· 
+#모두삭제
+docker rm `docker ps -a -q` 
+```
+9. 도커 이미지 삭제
+```
+docker rmi [이미지id]
+#-f 옵션시 컨테이너도 강제삭제
+docker rmi -f [이미지id]
+```
