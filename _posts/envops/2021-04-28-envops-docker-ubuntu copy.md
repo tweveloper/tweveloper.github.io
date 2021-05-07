@@ -30,7 +30,7 @@ ctrl+p+q : 터미널 빠져나오기
 5. 컨테이너 접속
 ```
 docker attach ubuntu
-docker exec-it ubuntu bash
+docker exec -it ubuntu bash
 ```
 6. 도커 컨테이너 리스트
 ```
