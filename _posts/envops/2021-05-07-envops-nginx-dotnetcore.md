@@ -97,6 +97,9 @@ docker exec -it ubuntu_nginx /bin/bash
         PRIMARY KEY ("id")
     );
     ```
+    ### TODO  
+    - PostgreSQL 설치 후 pgAdmin 설치하려는데 오류남..
+    - PostgreSQL 삭제 후 다시 설치 시작해보자..
 4. .NETCore를 설치한다.
 5. ReactJS 프로젝트를 만든다.
 6. 배포환경을 구성한다.
