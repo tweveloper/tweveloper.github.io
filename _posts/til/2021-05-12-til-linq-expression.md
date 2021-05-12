@@ -13,7 +13,8 @@ comments: false
     - [Docker MSSQL 샘플 DB 복원](https://docs.microsoft.com/ko-kr/sql/linux/tutorial-restore-backup-in-sql-server-container?view=sql-server-ver15){:target="_blank"}
     - [Docker MSSQL 설치](https://docs.microsoft.com/ko-kr/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash){:target="_blank"}
     - [Docker Compose with .NET Core & SQL Server (Step by Step)](https://www.youtube.com/watch?v=4V7CwC_4oss){:target="_blank"}
-    
+    - [Docker run 명령어 옵션](https://base-on.tistory.com/367){:target="_blank"}
+
 2. EntityFramework Core
     - [.NET 애플리케이션 아키텍처 가이드 > .NET 마이크로 서비스 - 아키텍처 eBook](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core){:target="_blank"}
     - [EF 상속구현](https://docs.microsoft.com/ko-kr/aspnet/core/data/ef-mvc/inheritance?view=aspnetcore-5.0){:target="_blank"}
