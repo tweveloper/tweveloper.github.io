@@ -11,7 +11,7 @@ comments: false
 2. Newtonsoft.json
 3. RestSharp
 
-```C#
+```c#
 public void RESTApi(string uri){
     JObject param = new JObject();
     param.Add("param1","value1");

@@ -10,6 +10,3 @@ comments: false
 1. System.Linq.Expressions  
 [AdventureWorks 예제 데이터베이스](https://docs.microsoft.com/ko-kr/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms){:target="_blank"}  
 [Expression Func 비교](https://www.infozoneus.com/blog/2019/10/22/performance-between-expression-and-func/){:target="_blank"}
-```C#
-
-```
