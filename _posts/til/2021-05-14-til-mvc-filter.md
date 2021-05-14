@@ -20,7 +20,8 @@ HttpApplication Processing Pipeline
 7. Action Filter (OnActionExecuted)
 8. Result Filter (OnResultExecuting)
 9. Action Result - Execute Result
-10. Result Filter (OnResultExecuted)
+10. Result Filter (OnResultExecuted)  
+
 ```c#
 public class FilterConfig
 {
