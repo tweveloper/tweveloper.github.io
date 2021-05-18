@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2021-05-18"
+date:   2021-05-18
+categories: TIL
+tags: 
+comments: false
+---
+## Git Branch
+Github 블로그를 작성하면서 Visaul Studio Code 터미널을 이용해 Git 명령어를 사용하고 있다.
+Add, Commit, Push, Pull 은 이제는 손에 익숙해져서 어색하지 않지만,  
+Branch는 아직 제대로 사용해 본 적이 없다.  
+그래서 Commit 하는 장소를 기준으로 Branch 관리해보려고 한다.
